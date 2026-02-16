@@ -1,40 +1,121 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eGMkzaTF)
 # Lab 1: UX Design - Ethiopian App Case Study
 
+## 📋 Project Details
+
+**Selected Ethiopian App:** Telebirr
+
+**Which media did you use for design?** draw.io
+
+---
+
 ## 🎯 Objective
-Practice wireframing by analyzing and redesigning a real-world application used in Ethiopia.
-
-## 🛠 Step 1: Follow the Tutorial
-1. Open [draw.io](https://app.diagrams.net/).
-2. Follow the steps in the attached [attachment](ux.pdf) to learn how to use device frames, icons, and text boxes.
-3. This is your training to understand how to build professional screens.
-
-## 🛠 Step 2: The Mandatory Project (Ethiopian App)
-Select **one** functional mobile application based in Ethiopia (e.g., Ride, Telebirr, ZayRide, Gebeta, etc.). 
-* **Rule 1:** The application must be currently working in Ethiopia.
-* **Rule 2:** You must choose a unique application. Duplicate selections  are forbidden.
-* **Rule 3:** You may use **any media** to design (draw.io, Figma).
+This project practices wireframing by analyzing and redesigning Telebirr, a mobile money service used in Ethiopia.
 
 ---
 
-## 📤 Submission Requirements
+## 📱 Screens Designed (8 Screens)
 
-### Phase 1: Accept the Assignment
-1. Accept the invitation link to create your unique GitHub repository.
+### 1. Welcome Screen
+- Telebirr logo with "SuperApp" text
+- "Welcome!" message
+- Skip button at top right
 
-### Phase 2: Upload Deliverables
-Upload the following files directly to your repository via the browser:
+### 2. Login Screen
+- Mobile number input with country code (+251)
+- "Next" button (red)
+- "Create New Account" and "Help" links
+- Footer with copyright
 
-1.  **Tutorial Proof:** The `mobileapp.png` you created while following the `ux.pdf` guide.
-2.  **Main Project:** The images/PDFs of your Ethiopian App design.
-    *  export as PNG/JPG.
-3.  **App Info:** Open `README.md` and fill in the details below.
+### 3. PIN Entry Screen
+- 6-digit PIN entry (6 circles)
+- X button at top left
+- "Forgot PIN?" link
+- Numeric keypad with backspace button
+
+### 4. Home Dashboard
+- Balance card with 0.00 ETB
+- "endekise" and "Reward" badges
+- Promotional banner "ONE APP FOR ALL YOUR NEEDS!"
+- Quick actions (3 rows of icons)
+  - Send Money, Buy Airtime, Buy Package
+  - Cash In/Out, Pay with telebirr, Financial Service
+  - Pay for Merchant, Payment, Apps
+- Telegebya and Online Shopping
+- Transaction Details list (4 items)
+- Scan QR button at bottom-right
+- **Bottom navigation with 5 buttons** (Home, Payment, Apps, Account, More)
+
+### 5. Payment Screen
+- Utility payment categories
+- Financial services section
+- Bottom navigation (Payment highlighted)
+
+### 6. Apps Screen
+- Third-party apps grid (3 columns)
+- Promo banner
+- Bottom navigation (Apps highlighted)
+
+### 7. Account Screen
+- User profile information
+- Settings menu
+- Bottom navigation (Account highlighted)
+
+### 8. More Screen
+- Additional services (mela Credit, endeKise, sanduq)
+- Promotions and settings
+- Bottom navigation (More highlighted)
 
 ---
 
-## 📝 Project Details
-**Selected Ethiopian App:** > [Name of App Here]
+## 🔄 User Flow
 
+---
 
-**Which media did you use for design? (draw.io, Figma, Paper, etc.)**
-> [Your Answer Here]
+## 🎨 Design Elements Used
+
+- **Tool:** draw.io
+- **Device Frames:** iPhone portrait
+- **Icons:** iOS UI icons and custom icons
+- **Colors:**
+  - Ethio Telecom Red: #E11B22
+  - Text Gray: #666666
+  - Background: White and Light Gray (#F5F5F5)
+- **Font:** Google Fonts - Roboto
+
+---
+
+## 📂 Files Submitted
+
+| File Name | Description |
+|-----------|-------------|
+| `mobileapp.png` | Tutorial proof (from following ux.pdf) |
+| `telebirr-1-welcome.png` | Welcome Screen |
+| `telebirr-2-login.png` | Login Screen |
+| `telebirr-3-pin.png` | PIN Entry Screen |
+| `telebirr-4-home.png` | Home Dashboard |
+| `telebirr-5-payment.png` | Payment Screen |
+| `telebirr-6-apps.png` | Apps Screen |
+| `telebirr-7-account.png` | Account Screen |
+| `telebirr-8-more.png` | More Screen |
+| `telebirr-full-wireframe.png` | All screens in one diagram |
+
+---
+
+## ✅ Requirements Met
+
+- [x] Selected Ethiopian App: **Telebirr** (works in Ethiopia)
+- [x] Used draw.io for design
+- [x] Created tutorial proof (`mobileapp.png`)
+- [x] Designed 8 main screens
+- [x] Exported all as PNG
+- [x] Uploaded to GitHub repository
+
+---
+
+## 👨‍💻 Author
+
+Seid Hussen Yesuf
+
+## 📅 Date
+
+February 16, 2026
